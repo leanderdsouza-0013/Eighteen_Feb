@@ -1,0 +1,1 @@
+All nodes are joined to one cable and if the main cable fails, entire network is affected.

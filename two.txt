@@ -1,0 +1,1 @@
+"Each node has its own cable that connects to a switch or a hub. If the hub fails, entire network fails."
